@@ -1,4 +1,4 @@
-Libary('fatbinetou')
+
 pipeline {
     // Déclaration des variables d'environnement accessibles dans toutes les étapes
     environment {
