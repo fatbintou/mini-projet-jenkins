@@ -1,4 +1,4 @@
-@Library('fatbinetou') _
+
 pipeline {
     environment {
         IMAGE_NAME      = 'webapp'
